@@ -7,13 +7,47 @@ git clone https://github.com/CodeMasterApp/CommandLineTools
 ```sh
 cd CommandLineTools
 ```
-3. Compile the `test.cpp` file (optional)
+
+## Compile the C++ file
+3. Navigate to the `cpp`` folder
+```sh
+cd cpp
+```
+4. Compile the `test.cpp` file (optional)
 ```sh
 g++ -o ./test ./test.cpp
 ```
-4. Run the dylib/exec, exe
+5. Run the dylib/exec, exe
 ```sh
 ./test
+```
+
+## Compile the C file
+3. Navigate to the `c` foler
+```sh
+cd c
+```
+4. Compile the `prototype.c` file (optional)
+```sh
+g++ -o ./prototype ./prototype.c
+```
+5. Run the dylib/exec, exe
+```sh
+./prototype
+```
+
+## Run the Shell script
+3. Navigate to the `sh` folder
+```sh
+cd sh
+```
+4. Give the script the premission to execute
+```sh
+chmod +x prototype.sh
+```
+5. Run the shell script
+```sh
+./prototype.sh
 ```
 
 >Note: \
