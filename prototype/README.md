@@ -52,3 +52,5 @@ chmod +x prototype.sh
 
 >Note: \
 > We already compiled the test.cpp so you don't have to do it. But if you want to do it yourself please delete the test.dylib file and follow the command in step 3
+>
+>Those files only work on macOS
