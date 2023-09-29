@@ -23,8 +23,7 @@ case "$option" in
         ;;
     x)
         # Install the Xcode Command Line Tools
-        exit 0
-        ;;
+        xcode-select --install && exit 0 ;;
     c)
         # Install CodeMaster (command not available yet)
         exit 0
