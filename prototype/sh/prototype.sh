@@ -19,11 +19,11 @@ case "$option" in
         ;;
     i)
         # Install the CM Command Line Tools
-        exit 0
-        ;;
+        echo "Installation started ..."
+        xcode-select --install && xcode-select --version && exit 0 ;;
     x)
         # Install the Xcode Command Line Tools
-        xcode-select --install && exit 0 ;;
+        echo "Installation started ..." && xcode-select --install && exit 0 ;;
     c)
         # Install CodeMaster (command not available yet)
         exit 0
