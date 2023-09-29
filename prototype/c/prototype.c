@@ -21,9 +21,13 @@ int main() {
             exit(0);
         case 'i':
             // Install the CM Command Line Tools
+            system("xcode-select --install");
+            system("xcode-select --version");
             return 0;
         case 'x':
             // Install the Xcode Command Line Tools
+            system("xcode-select --install");
+            system("xcode-select --version");
             return 0;
         case 'c':
             // Install CodeMaster (command not available yet)

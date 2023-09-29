@@ -20,12 +20,20 @@ int main() {
         case 'i':
             // Install the Xcode Command Line Tools:
             // xcode-select --install
+            /// use std::system to execute shell commands
+            std::system("xcode-select --install");
+            std::system("xcode-select --version");
 
             // Install the CM Command Line Tools:
+
+
             return 0;
         case 'x':
             // Install the Xcode Command Line Tools:
             // xcode-select --install
+            std::system("xcode-select --install");
+            std::system("xcode-select --version");
+            
             return 0;
         case 'c':
             // brew install CodeMaster (command nor available yet!)
