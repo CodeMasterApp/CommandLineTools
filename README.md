@@ -5,4 +5,4 @@
 
 The official CodeMaster Command Line Installer
 
-<img src="img/Window.svg">
+<img width="1012" align="center" alt="github-banner" src="img/Window.svg">
