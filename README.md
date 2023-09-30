@@ -4,6 +4,18 @@
   <h1 align="center">CodeMaster's Command Line Tools</h1>
 </p>
 
+<p align="center">
+  <a aria-label="Follow CodeMaster on Github" href="https://github.com/CodeMasterApp" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/Follow%20@CodeMasterApp-black.svg?style=for-the-badge&logo=Github">
+  </a>
+  <a aria-label="Read the Documentation" href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/Documentation-black.svg?style=for-the-badge&logo=readthedocs&logoColor=blue">
+  </a>
+  <a aria-label="Join the community on Discord" href="https://discord.gg/NgKstR2Uvh" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/Join%20the%20community-black.svg?style=for-the-badge&logo=Discord">
+  </a>
+</p>
+
 The official CodeMaster installer app with a simple but powerful interface for installing CM command line tools and CodeMaster itself.
 
 <img width="800" alignment="center" alt="github-banner" src="img/Window.svg">
