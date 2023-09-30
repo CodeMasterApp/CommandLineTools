@@ -1,17 +1,22 @@
 #include "glfw3.h"
-//#include "include/glfw-3.3.8.bin.MACOS/include/GLFW/glfw3.h"
-//#include "GLFW/glfw3.h"
+#include <stdlib.h>
+#include <stdio.h>
 
 int main() {
+    // GLFWwindow * window; 
+
+    /* Initialize the library */
     if (!glfwInit())
         return -1;
 
-    GLFWwindow* window = glfwCreateWindow(640, 480, "My GUI", NULL, NULL);
+    /* Create a windowed mode window and its OpenGL context */
+    GLFWwindow* window = glfwCreateWindow(640, 480, "CM Installer", NULL, NULL);
     if (!window) {
         glfwTerminate();
         return -1;
     }
 
+    /* Make the window's context current */
     glfwMakeContextCurrent(window);
 
     while (!glfwWindowShouldClose(window)) {
