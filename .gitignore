@@ -1,3 +1,7 @@
 include/glfw-3.3.8.bin.MACOS/.DS_Store
 .DS_Store
 *.DS_Store
+build/CMakeFiles/CMInstaller.dir/compiler_depend.make
+build/CMakeFiles/CMInstaller.dir/compiler_depend.internal
+build/CMakeFiles/CMInstaller.dir/compiler_depend.make
+build/CMakeFiles/CMInstaller.dir/compiler_depend.internal

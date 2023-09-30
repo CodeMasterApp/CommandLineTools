@@ -1,5 +1,5 @@
 #include "glfw3.h"
-#include "SDL.h"
+//#include "SDL.h"
 #include <stdlib.h>
 #include <stdio.h>
 
