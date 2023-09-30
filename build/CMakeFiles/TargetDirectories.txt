@@ -1,0 +1,3 @@
+/Users/neviohirani/Developer/Projects/CommandLineTools/build/CMakeFiles/CMInstaller.dir
+/Users/neviohirani/Developer/Projects/CommandLineTools/build/CMakeFiles/edit_cache.dir
+/Users/neviohirani/Developer/Projects/CommandLineTools/build/CMakeFiles/rebuild_cache.dir
