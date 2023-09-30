@@ -7,7 +7,8 @@ OUTPUT_EXECUTABLE="CMInstaller"
 SOURCE_FILES="main.c" 
 
 # Path to the GLFW header file
-GLFW_INCLUDE_PATH="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+# GLFW_INCLUDE_PATH="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+GLFW_INCLUDE_PATH="/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers"
 
 # Compiler command
 COMPILER="gcc"

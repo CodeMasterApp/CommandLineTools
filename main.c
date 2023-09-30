@@ -1,4 +1,5 @@
-#include <GLFW/glfw3.h>
+//#include <glfw3.h>
+#include <include/glfw-3.3.8.bin.MACOS/include/GLFW/glfw3.h>
 
 int main() {
     if (!glfwInit())
