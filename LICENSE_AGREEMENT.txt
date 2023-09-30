@@ -42,15 +42,21 @@
 
 # 4. Licensee's Obligations
 4.1 The Licensee cannot use the Asset for purposes other than as specified in this Agreement and in Item 8 of the Schedule.
-4.2 The Licensee may permit its employees to use the Asset for the purposes described in Item 8, provided that the Licensee takes all necessary steps and imposes the required conditions to ensure that all employees using the Asset do not commercialize or disclose the contents of it to any third person, or use it other than in accordance with the terms of this Agreement.
+4.2 The Licensee may permit its employees to use the Asset for the purposes described in Item 8, provided that the 
+    Licensee takes all necessary steps and imposes the required conditions to ensure that all employees using the Asset do 
+    not commercialize or disclose the contents of it to any third person, or use it other than in accordance with the terms
+    of this Agreement.
 4.3 The Licensee will not distribute, sell, license or sub-license, let, trade or expose for sale the Asset to a third party.
 4.4 No copies of the Asset are to be made other than as expressly approved by Licensor.
 4.5 No changes to the Asset or its content may be made by Licensee.
-4.6 The Licensee will provide technical and security measures to ensure that the Asset which the Licensee is responsible for is physically and electronically secure from unauthorized use or access.
-4.7 Licensee shall ensure that the Asset retains all Licensor copyright notices and other proprietary legends and all trademarks or service marks of Licensor.
+4.6 The Licensee will provide technical and security measures to ensure that the Asset which the Licensee is responsible 
+    for is physically and electronically secure from unauthorized use or access.
+4.7 Licensee shall ensure that the Asset retains all Licensor copyright notices and other proprietary legends and all 
+    trademarks or service marks of Licensor.
 
 # 5. Intellectual Property Rights
-5.1 All Intellectual Property Rights over and with respect to the Asset are owned by Licensor. The Licensee does not acquire any rights of ownership of the Asset.
+5.1 All Intellectual Property Rights over and with respect to the Asset are owned by Licensor. The Licensee does not acquire 
+    any rights of ownership of the Asset.
 
 # 6. Limitation of Liability
 6.1 The Licensee acknowledges and agrees that neither Licensor nor its board members, officers, 
@@ -59,8 +65,12 @@
     and Licensee hereby releases Licensor to the fullest extent from any such liability, loss, damage or claim.
 
 # 7. Confidentiality
-7.1 Neither Party may use, disclose or make available to any third party the other Party’s Confidential Information, unless such use or disclosure is done in accordance with the terms of this Agreement.
-7.2 Each Party must hold the other Party’s Confidential Information secure and in confidence, except to the extent that such Confidential Information:
-    a) is required to be disclosed according to the requirements of any law, judicial or legislative body or government agency; or
-    b) was approved for release in writing by the other Party, but only to the extent of and subject to such conditions as may be imposed in such written authorization.
+7.1 Neither Party may use, disclose or make available to any third party the other Party’s Confidential Information, 
+    unless such use or disclosure is done in accordance with the terms of this Agreement.
+7.2 Each Party must hold the other Party’s Confidential Information secure and in confidence, except to the extent that 
+    such Confidential Information:
+       a) is required to be disclosed according to the requirements of any law, judicial or legislative body or government agency; or
+       b) was approved for release in writing by the other Party, but only to the extent of and subject to such conditions as may be imposed in such written authorization.
 7.3 This clause (Clause 7) will survive termination of this Agreement.
+
+# 8. Disclaimers & Release
