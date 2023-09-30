@@ -1,20 +1,19 @@
 #!/bin/bash
 
 # Set the name of the output executable
-OUTPUT_EXECUTABLE="main"
+OUTPUT_EXECUTABLE="CMInstaller"
 
 # Source files for the GLFW application
-SOURCE_FILES="main.c"
+SOURCE_FILES="main.c" 
 
 # Path to the GLFW header file
-GLFW_INCLUDE_PATH="/include/glfw-3.3.8.bin.MACOS/include/GLFW/glfw3.h"  
+GLFW_INCLUDE_PATH="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
 
 # Compiler command
-COMPILER="g++"
+COMPILER="gcc"
 
 # Compiler flags (include GLFW and link against it)
 FLAGS="-I$GLFW_INCLUDE_PATH -lglfw -framework OpenGL"
 
-# Compiler command with GLFW include path
-# g++ -o ./main -I$GLFW_INCLUDE_PATH ./main.c
-$COMPILER $FLAGS -o $OUTPUT_EXECUTABLE -I$GLFW_INCLUDE_PATH $SOURCE_FILES
+# Compile the source files
+$COMPILER $SOURCE_FILES $FLAGS -o $OUTPUT_EXECUTABLE
