@@ -1,0 +1,66 @@
+########################################################################################################################
+# For use of CM CommandLineTools.                                                                                      #
+#                                                                                                                      #
+# This License Agreement (this “Agreement” of this “LicenseAgreement”) is made and effective as of Sept 30             #
+# (the “Commencement Date”) by and between , a company organized in Germany.                                           #
+#                                                                                                                      #
+# WHEREAS:                                                                                                             #
+# 1. Licensee wishes to obtain a license to use of product (hereinafter, the “Asset”), and                             #
+# 2. Licensor is willing to grant to the Licensee a non-exclusive, non-transferable License to use the Asset for the   #
+#    term and specific purpose set forth in this Agreement,                                                            # 
+#                                                                                                                      #
+# NOW, THEREFORE, in consideration of the foregoing, and of the mutual promises and undertakings contained herein,     #
+# and other good and valuable consideration, the parties agree as follows:                                             #
+########################################################################################################################
+
+# 1. Definitions
+1.1 “Agreement” means this License Agreement, including the attached Schedule.
+1.2 “Confidential Information” means information that:
+   a) is by its nature confidential;
+   b) is designated in writing by Licensor as confidential;
+   c) the Licensee knows or reasonably ought to know is confidential;
+   d) Information contained in or relating to any Intellectual Property Rights of Licensor.
+1.3 “Asset” means the Asset provided by the Licensor as specified in Item 6 of the Schedule (Exhibit A) in the form as 
+    stated in Item 7 of the Schedule (Exhibit A).
+1.4 “Intellectual Property Rights” means all rights in and to any copyright, trademark, trading name, design, patent, 
+    know-how (trade secrets), and all other rights resulting from intellectual activity in the industrial, scientific, 
+    literary or artistic field and any application or right to apply for registration of any of these rights and any 
+    right to protect or enforce any of these rights, as further specified in Clause 5.
+1.5 “Party” means a person or business entity who has executed this Agreement; details of the Parties are specified 
+    in Item 2 of the Schedule.
+1.6 “Term” means the term of this Agreement commencing on the Commencement Date as specified in Item 4 
+    of the Schedule (Exhibit A) and expiring on the Expiration Date specified in Item 5 of the Schedule.
+
+# 2. License Grant
+2.1 Licensor grants to the Licensee a non-exclusive, non-transferable License for the Term to use the Asset 
+    for the specific purpose specified in this Agreement, subject to the terms and conditions set out in this Agreement.
+
+# 3. Charges
+3.1 In consideration of the Licensor providing the License under Clause 2 of this License Agreement, 
+    the Licensee agrees to pay the Licensor the amount of the License Charge as specified in 
+    Item 9 of the Schedule.
+
+# 4. Licensee's Obligations
+4.1 The Licensee cannot use the Asset for purposes other than as specified in this Agreement and in Item 8 of the Schedule.
+4.2 The Licensee may permit its employees to use the Asset for the purposes described in Item 8, provided that the Licensee takes all necessary steps and imposes the required conditions to ensure that all employees using the Asset do not commercialize or disclose the contents of it to any third person, or use it other than in accordance with the terms of this Agreement.
+4.3 The Licensee will not distribute, sell, license or sub-license, let, trade or expose for sale the Asset to a third party.
+4.4 No copies of the Asset are to be made other than as expressly approved by Licensor.
+4.5 No changes to the Asset or its content may be made by Licensee.
+4.6 The Licensee will provide technical and security measures to ensure that the Asset which the Licensee is responsible for is physically and electronically secure from unauthorized use or access.
+4.7 Licensee shall ensure that the Asset retains all Licensor copyright notices and other proprietary legends and all trademarks or service marks of Licensor.
+
+# 5. Intellectual Property Rights
+5.1 All Intellectual Property Rights over and with respect to the Asset are owned by Licensor. The Licensee does not acquire any rights of ownership of the Asset.
+
+# 6. Limitation of Liability
+6.1 The Licensee acknowledges and agrees that neither Licensor nor its board members, officers, 
+    employees or agents, will be liable for any loss or damage arising out of or resulting from Licensor’s 
+    provision of the Asset under this Agreement, or any use of the Asset by the Licensee or its employees; 
+    and Licensee hereby releases Licensor to the fullest extent from any such liability, loss, damage or claim.
+
+# 7. Confidentiality
+7.1 Neither Party may use, disclose or make available to any third party the other Party’s Confidential Information, unless such use or disclosure is done in accordance with the terms of this Agreement.
+7.2 Each Party must hold the other Party’s Confidential Information secure and in confidence, except to the extent that such Confidential Information:
+    a) is required to be disclosed according to the requirements of any law, judicial or legislative body or government agency; or
+    b) was approved for release in writing by the other Party, but only to the extent of and subject to such conditions as may be imposed in such written authorization.
+7.3 This clause (Clause 7) will survive termination of this Agreement.
